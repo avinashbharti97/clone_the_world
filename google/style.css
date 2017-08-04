@@ -1,0 +1,33 @@
+
+
+img 
+{
+	display: block;
+	margin-top:  160px;
+	margin-left: 39.5%;
+	position: center;
+}
+#search
+{
+	position: center;
+	margin-top: 20px;
+	margin-left: 25.5%;
+	background-color: white;
+	box-shadow: 3px 3px 15px #e5e6e8;
+	height: 45px;
+	width: 632px;
+	border-style: solid;
+	border-color: #e5e6e8;
+	border-width: 1px;
+}
+.gb_p
+{
+	color: #000;
+	
+	opacity: .75;
+	font-family: arial,sans-serif;
+	text-align: right;
+	
+
+}
+
